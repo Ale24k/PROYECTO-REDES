@@ -1,3 +1,2 @@
 # PROYECTO-REDES
 
-import numpy 
