@@ -6,3 +6,5 @@ categorías. Boosting, CatBoost.
 
 - Referencias:
   Amazon.com. Recuperado el 2 de julio de 2023, de https://docs.aws.amazon.com/sagemaker/latest/dg/gs-console.html
+  
+  Anderson Rojas Ramos Certificado de Control de versiones
